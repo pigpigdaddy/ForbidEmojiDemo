@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1B651B31-FDE0-4A3A-BB09-4B3CEAB31A20</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ForbidEmojiDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AF82B0B9-3CC4-452C-9329-B16E1CF1D7D3</key>
+		<string>https://github.com/pigpigdaddy/ForbidEmojiDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ForbidEmojiDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AF82B0B9-3CC4-452C-9329-B16E1CF1D7D3</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pigpigdaddy/ForbidEmojiDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AF82B0B9-3CC4-452C-9329-B16E1CF1D7D3</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AF82B0B9-3CC4-452C-9329-B16E1CF1D7D3</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ForbidEmojiDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
