@@ -2,7 +2,7 @@
 //  ForbidEmojiDemoTests.m
 //  ForbidEmojiDemoTests
 //
-//  Created by 林峰 on 14-9-2.
+//  Created by pigpigdaddy on 14-9-2.
 //  Copyright (c) 2014年 pigpigdaddy. All rights reserved.
 //
 
